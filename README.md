@@ -7,9 +7,12 @@ This project explores the data on the review provided by the users of the ChatGP
  1. Cleaned and organized raw data using Python.
 
 **Analysis**
- 1. Used Python for detailed analysis and to find the Insights.
+ 1. Python was used for detailed analysis and to find insights.
  2. Used libraries like Matplotlib and Seaborn for visualizing data.
+ 3. Applied sentiment analysis to classify each review, providing sentiment labels based on review content.
+ 4. Identified common user preferences and dislikes, gaining insights into key features valued by users and areas needing
+    improvement.
 
 **Outcome**
- 1. Derived actionable insights and recommendations that help ChatGpt for making further improvements on their application.
+ 1. I derived actionable insights and recommendations that help ChatGpt further improve its application.
 
